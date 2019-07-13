@@ -3,7 +3,7 @@
 <head>
   
 </head>
-<body>
+<body style="background-color:powderblue;">
 <table id="t01">
   <tr>
     <th>Name</th>
@@ -13,8 +13,8 @@
   <tr>
     <td>Ms. Riversa Martin</td>
     <td>s00000</td>
-    <td>Sydney, Australia</td>
-  </tr>
+    <td>Sydney, Australia</td>  
+</tr>
 </table>
 <table style="width:100%">
   <tr>
@@ -29,9 +29,15 @@
     <td>GPA: 3.33</td>
   </tr>
 </table>
+<div style="background-color:black;color:white;padding:20px;">
+<h2>Personal Information</h2>
+  <p>Middle class borned and raised in London. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+</div> 
 <h2>Interview an IT professional</h2>
+<div style="background-color:black;color:white;padding:20px;">
 <p>An HTML page can only have one unique id applied to one specific element, while a class name can be applied to multiple elements.</p>
-  
+</div>  
 <!-- A unique element -->
 <h1 id="myHeader">IT Technologies</h1>
 
