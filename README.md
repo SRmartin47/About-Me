@@ -2,6 +2,7 @@
 <html>
 <head>
 <style>
+/* Style the element with the id "myHeader" */  
 #myHeader {
   background-color: lightblue;
   color: black;
