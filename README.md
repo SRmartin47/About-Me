@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  
 </head>
 <body>
 <table id="t01">
@@ -13,6 +14,19 @@
     <td>Ms. Riversa Martin</td>
     <td>s00000</td>
     <td>Sydney, Australia</td>
+  </tr>
+</table>
+<table style="width:100%">
+  <tr>
+    <th>Learning</th>
+    <td>In letters: B +</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Outcome</th>
+    <td>Grades: 87 - 89</td>
+  </tr>
+  <tr>
+    <td>GPA: 3.33</td>
   </tr>
 </table>
 <h2>Interview an IT professional</h2>
