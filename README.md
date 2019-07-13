@@ -1,5 +1,20 @@
 <!DOCTYPE html>
-<title>Page Title</title>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<html>
+<head>
+<style>
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+.city {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+</body> 
+</html>
