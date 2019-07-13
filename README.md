@@ -3,6 +3,18 @@
 <head>
 </head>
 <body>
+<table id="t01">
+  <tr>
+    <th>Name</th>
+    <th>Student ID</th> 
+    <th>City & Country</th>
+  </tr>
+  <tr>
+    <td>Ms. Riversa Martin</td>
+    <td>s00000</td>
+    <td>Sydney, Australia</td>
+  </tr>
+</table>
 <h2>Interview an IT professional</h2>
 <p>An HTML page can only have one unique id applied to one specific element, while a class name can be applied to multiple elements.</p>
   
