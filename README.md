@@ -30,7 +30,7 @@
   </tr>
 </table>
 <div style="background-color:black;color:white;padding:20px;">
-<h2>Personal Information</h2>
+<h2 style="color:blue;">Personal Information</h2>
   <p>Middle class borned and raised in London. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
   <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
 </div> 
