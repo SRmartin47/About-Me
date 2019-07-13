@@ -7,6 +7,8 @@
 </head>
 <body style="background-color:powderblue;">
   <style>
+    <h1 style="font-family:widelatin;">Horse</h1>
+    <h1 style="font-size:300%;">Horse</h1>
 h1 {color:red;}
 p {color:blue;}
 </style>
