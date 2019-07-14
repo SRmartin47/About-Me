@@ -3,7 +3,6 @@
 <head>
   
 </head>
-<body style="background-color:powderblue;">
 <table id="t01">
   <tr>
     <th>Name</th>
@@ -29,17 +28,18 @@
     <td>GPA: 3.33</td>
   </tr>
 </table>
-<div style="background-color:black;color:white;padding:20px;">
-<h2 style="color:blue;">Personal Information</h2>
-  <p>Middle class borned and raised in London. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+<h2><i>Personal Information</i></h2>
+  <p>Middle class born and raised in Makati City Metro Manila, Philippines. The year of 1990, I’ve arrived to live in Australia and the year of 1994 I become an Australian Citizen. I am very family oriented, a good listener, friendly, and a warm caring attitude. I am 47 years old with a wonderful partner, and a very proud mother of three beautiful independent children (years of ages from oldest 28, 26, 23) born and raised in Australia. Where I grew up, I am surrounded by 10 brothers and three sisters, so many of us but we all get along well.  My father is an educated professional Engineer for electrical, electronic, and mechanical, with his qualification earn him to be successful businessman to own a large company located right in Makati city Metro Manila. So, basically myself and my other sibling have seen a lot of kind of technical repairs that my father and his employees does, from a childhood to growing up our closest bonding with our parents are beyond. The gene of who we are, are shown what interest that we would like to learn and do, so most of my siblings, relatives, and including myself have a soft skill about electrical and electronic saga. My mother had a gift with a good heart, a warmth personality with smart brain in mathematics, she helps dad doing book work and take care of us at the same times even though she has a few maids. My mother does the bookkeeping manually into a simple book and I see hundreds of them kept stored in the filing metal cabinet. Seeing my parent’s achievement that drives me to be ambitious, and I’ll never stop to pursued to become an Engineer someday. </p>
   <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
-</div> 
-<h2>Interview an IT professional</h2>
-<div style="background-color:black;color:white;padding:20px;">
+<h2><i>Objective</i></h2>
+<p>Independent worker with high energy and great communication skills. Reliable and friendly professional, willing to learn and work hard and collaborate in team environments. Adept co-operative teamwork and multi-tasking on simultaneous projects, to utilize my experience in operation public relation and program management, process improvements and multicultural client relations. Works well independently and consistently exceeds expectations.</p>
+<h2>Highlight</h2>
+
+<h2><i>Interview an IT professional</i></h2>
 <p>An HTML page can only have one unique id applied to one specific element, while a class name can be applied to multiple elements.</p>
-</div>  
+  
 <!-- A unique element -->
-<h1 id="myHeader">IT Technologies</h1>
+<h1 id="myHeader"><i>IT Technologies</i></h1>
 
 <!-- Multiple similar elements -->
 <h2 class="city">Autonomous Vehicles</h2>
