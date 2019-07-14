@@ -67,7 +67,7 @@
   <dd>Investors?</dd>
   <dd>The general public?</dd>
   <dt>Where does the IT professional spend most of their time?</dt>
-  <dd>Answer?</dd>
+  <dd>Answer:</dd>
   <dt>What aspect of their position is most challenging?</dt>
   <dd>Answer:</dd>
 </dl>  
