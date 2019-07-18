@@ -6,10 +6,17 @@ span.note {
   font-size: 120%;
   color: red;
 }
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
 </style> 
 </head>
 <body>
-<h1>My <span class="note">Profile</span></h1>
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
 <table id="t01">
   <tr>
     <th>Name</th>
@@ -34,11 +41,7 @@ span.note {
   <tr>
     <td>GPA: 3.33</td>
   </tr>
-</table>
-<div style="opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF"></div>
-<p style="color:red;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
+  </table>
 <h2><i>Personal Information</i></h2>
   <p>Middle class</p>
 <h2><i>Objective</i></h2>
