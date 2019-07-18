@@ -4,6 +4,7 @@
   
 </head>
 <body>
+<h1>My <span style="color:red">Profile</span></h1>
 <table id="t01">
   <tr>
     <th>Name</th>
@@ -29,6 +30,7 @@
     <td>GPA: 3.33</td>
   </tr>
 </table>
+<div style="opacity:0.5;position:absolute;left:50px;top:-30px;width:300px;height:150px;background-color:#40B3DF"></div>
 <p style="color:red;">I am red</p>
 <p style="color:blue;">I am blue</p>
 <p style="font-size:50px;">I am big</p>
