@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+ <title>My First HTML</title>
+  <meta charset="UTF-8">
 <style>
 span.note {
   font-size: 120%;
