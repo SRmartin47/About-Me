@@ -1,22 +1,11 @@
 <!DOCTYPE html>
+
 <html>
 <head>
  </head> 
 </head>
 <body>
- body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
+ 
 <table id="t01">
   <tr>
     <th>Name</th>
