@@ -1,24 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>My First HTML</title>
-  <meta charset="UTF-8">
+ </head>
 <style>
-span.note {
-  font-size: 120%;
-  color: red;
-}
-#myHeader {
-  background-color: lightblue;
-  color: black;
-  padding: 40px;
-  text-align: center;
-}
 </style> 
 </head>
 <body>
-<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
-Your browser does not support the HTML5 canvas tag.</canvas>
 <table id="t01">
   <tr>
     <th>Name</th>
