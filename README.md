@@ -29,6 +29,9 @@
     <td>GPA: 3.33</td>
   </tr>
 </table>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
 <h2><i>Personal Information</i></h2>
   <p>Middle class</p>
 <h2><i>Objective</i></h2>
