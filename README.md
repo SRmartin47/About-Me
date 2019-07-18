@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
+<style>
+span.note {
+  font-size: 120%;
+  color: red;
+}
+</style> 
 </head>
 <body>
-<h1>My <span style="color:red">Profile</span></h1>
+<h1>My <span class="note">Profile</span></h1>
 <table id="t01">
   <tr>
     <th>Name</th>
@@ -37,7 +42,7 @@
 <h2><i>Personal Information</i></h2>
   <p>Middle class</p>
 <h2><i>Objective</i></h2>
-<p>Independent worker with high energy and great communication skills. Reliable and friendly professional, willing to learn and work hard and collaborate in team environments.</p>
+  <p>Independent worker with high energy and great<span class="note"> communication</span>skills. Reliable and friendly professional, willing to learn and work hard and collaborate in team environments.</p>
 <h2>Highlight</h2>
 <ul id style="list-style-type:square;">
   <li>Teamwork Cooperative, Discipline and Respectable</li>
