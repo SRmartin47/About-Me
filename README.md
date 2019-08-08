@@ -2,9 +2,11 @@
 
 <html>
 <head>
- </head> 
+ </head>
+ <h1>Group Profile</h1>
+ <meta charset="UTF-8">
 </head>
-<body>
+<body style="background-color:powderblue;">
  
 <table id="t01">
   <tr>
@@ -32,7 +34,7 @@
   </tr>
   </table>
 <h2><i>Personal Information</i></h2>
-  <p>Middle class</p>
+  <p>Middle class born and raised in Manila Philippines.</p>
 <h2><i>Objective</i></h2>
   <p>Independent worker with high energy and great<span class="note"> communication</span>skills. Reliable and friendly professional, willing to learn and work hard and collaborate in team environments.</p>
 <h2>Highlight</h2>
