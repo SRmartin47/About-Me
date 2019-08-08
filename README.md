@@ -1,14 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-</style>
+<script>
+function bgChange(bg) {
+  document.body.style.background = bg;
+}
+</script>
 </head>
 <body>
-<h2>What Can JavaScript Do?</h2>
 
-<p id="demo">JavaScript can change HTML content.</p>
+<h2>Change background color</h2>
+<p>Mouse over the squares!</p>
 
-<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+<table style="width:300px;height:100px">
+  <tr>
+    <td onmouseover="bgChange(this.style.backgroundColor)" 
+    onmouseout="bgChange('transparent')"
+    style="background-color:Khaki">
+    </td>
+    <td onmouseover="bgChange(this.style.backgroundColor)" 
+    onmouseout="bgChange('transparent')"
+    style="background-color:PaleGreen">
+    </td>
+    <td onmouseover="bgChange(this.style.backgroundColor)" 
+    onmouseout="bgChange('transparent')"
+    style="background-color:Silver">
+    </td>
+  </tr>
+</table>
 </body>
 </html>
